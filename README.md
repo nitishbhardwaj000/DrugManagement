@@ -1,1 +1,3 @@
 # DrugManagement
+
+This Java project implements a heap data structure specifically designed for managing drug information. The Drugheaps class likely contains methods for heap operations such as insertion, deletion, and sorting. The Mainfn class serves as the main entry point, initializing an instance of Drugheaps and performing several operations. Firstly, it constructs the heap and writes the drug information into a file named "inordertraversal.tab" through an inorder traversal. Then, it conducts heap sort on the data. Overall, this project facilitates efficient management and sorting of drug-related data using a heap data structure
